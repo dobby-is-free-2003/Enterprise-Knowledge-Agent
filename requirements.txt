@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+numpy
+pyyaml
+qdrant-client
+google-genai
+google-adk
+google-api-python-client
+google-auth
+google-auth-oauthlib
+pytest
